@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\programming\sources\vscode\bbs\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1189666215.index
+\com.kja.web\src\main\java
+C:\programming\sources\vscode\bbs\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3946854765.index
+\com.kja.web\src\main\java
